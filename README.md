@@ -1,2 +1,2 @@
-# Soru-Cevap
+# Soru Cevap
 Soru Cevap platformu
